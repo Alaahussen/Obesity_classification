@@ -51,3 +51,11 @@ Classification models like **Random Forest**, **K-Nearest Neighbors**, **Logisti
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/obesity-risk-classification.git
+
+## 🎥 Visualization
+
+Here’s a quick overview of the project’s workflow:
+
+![Obesity App Workflow](obesity_app.gif)
+
+   
