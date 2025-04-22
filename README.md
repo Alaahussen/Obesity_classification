@@ -56,6 +56,6 @@ Classification models like **Random Forest**, **K-Nearest Neighbors**, **Logisti
 
 Here’s a quick overview of the project’s workflow:
 
-![Obesity App Workflow](obesity_app.gif)
+![Obesity App Workflow](obesity_app+.gif)
 
    
